@@ -19,3 +19,9 @@ The project relies on several Python libraries, including pandas for data manipu
 - Implementation and comparison of kNN and Decision Tree regression models.
 - Techniques for hyperparameter tuning using GridSearchCV.
 - Evaluation of model performance using metrics such as R² score and Mean Squared Error.
+
+# Contributing
+- Interested in contributing? Fork the repository, commit your improvements, and submit a pull request.
+
+# License
+- This project is shared under the MIT License.
